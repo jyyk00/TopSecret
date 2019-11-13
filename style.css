@@ -1,0 +1,37 @@
+.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin-left: 250px;
+}
+body {
+    background-image: url("./assets/beanstalk-dark.png");
+}
+.content{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:lightgray;
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+}
+#length{
+    display: inline-block;
+    width: 100px;
+}
+.textbox {
+    block-size: 100px;
+    
+}
+#password {
+    block-size: 100px;
+    width: 300px;
+    border: dashed;
+}
+@media screen and (max-width: 768px) {
+    .navbar-brand {
+        width: 728px;
+    }
