@@ -18,6 +18,7 @@ In this application the user also has the option to copy the password to their c
 If user chooses to, an alert will pop up confirming. 
 
 [application demo](./assets/passwordgenerator.png)
-
+[GitHub page](https://programmerkim.github.io/homework3/)
+[Github repo](https://github.com/programmerkim/homework3)
 
 
